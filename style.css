@@ -1,0 +1,19 @@
+*{ 
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: black;
+}
+
+span{
+    background: url("https://cdn2.iconfinder.com/data/icons/valentine-day-16/512/540_love_flower_wedding_heart_valentine_valentines_day_love-512.png");
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-size: cover;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
